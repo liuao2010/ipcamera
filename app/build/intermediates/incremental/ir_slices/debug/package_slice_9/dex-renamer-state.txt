@@ -1,0 +1,4 @@
+#Tue May 07 16:07:36 CST 2019
+base.0=D\:\\Demo\\android-ndk-master\\spydroid-ipcamera-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
